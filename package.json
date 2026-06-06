@@ -1,0 +1,5 @@
+{
+  "name": "rf-test-fixture",
+  "version": "1.0.0",
+  "dependencies": { "lodash": "4.17.4", "minimist": "1.2.0" }
+}
